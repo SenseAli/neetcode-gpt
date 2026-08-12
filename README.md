@@ -1,4 +1,4 @@
-# My GPT — Built from Scratch
+# Building a GPT from Scratch - Start to Finish
 
 > Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
 > Built by **Ali** on August 11, 2026
